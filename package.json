@@ -1,8 +1,8 @@
 {
-  "name": "tasksapp",
+  "name": "react-todo-app",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://faztweb.github.io/react-tasksapp-localstorage",
+  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -13,6 +13,7 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
+    "dev": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
