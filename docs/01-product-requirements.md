@@ -78,7 +78,7 @@ The TODO App is a lightweight, user-friendly task management application built i
 
 ---
 
-## 6. User Stories (From QA Lens)
+## 6. User Stories 
 
 | ID | User Story | Acceptance Criteria |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ The TODO App is a lightweight, user-friendly task management application built i
 
 ## 7. Assumptions
 
-- The project will be developed in React using Create React App or Vite.
+- The project will be developed in React.
 - Testing will be automated (unit and integration) where applicable.
 - Manual testing will be executed for UI, usability, and edge case scenarios.
 
@@ -141,12 +141,12 @@ The TODO App is a lightweight, user-friendly task management application built i
 
 | Area | Tools |
 | --- | --- |
-| Test Case Management | Notion / TestRail / Zephyr |
-| Bug Tracking | Jira / GitHub Issues |
-| Automation | Jest, React Testing Library, Cypress |
+| Notion |
+| GitHub Issues |
+| Jest, React Testing Library, Playwrite |
 | Performance | Lighthouse |
-| Accessibility | Axe-core, Lighthouse, Wave |
-| Manual Testing | BrowserStack, real devices |
+| Accessibility | Lighthouse |
+| Manual Testing | real devices |
 
 ---
 
@@ -155,7 +155,6 @@ The TODO App is a lightweight, user-friendly task management application built i
 | Role | Name | Date | Signature |
 | --- | --- | --- | --- |
 | QA Analyst | [Your Name] | [Today] | ✅ |
-| Product Owner | TBD | – | – |
-| Developer Lead | TBD | – | – |
+| Developer | TBD | – | – |
 
 ---
