@@ -2,7 +2,7 @@
 
 | Test Case ID | Status    | Comments                |
 |--------------|-----------|-------------------------|
-| TC1          | Pass      |                         |
+| TC1          | Pass      | It is allowed to enter text in the input, to click "save", and the task appears on screen. |
 | TC2          | Pass      |                         |
 | TC3          | Pass      |                         |
 | TC4          | Pass      |                         |
