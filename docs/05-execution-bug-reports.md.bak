@@ -2,8 +2,8 @@
 
 | Bug ID | Test Case | Description                | Severity | Status   |
 |--------|-----------|----------------------------|----------|----------|
-| 1      | TC4       | Task is not removed from the list after clicking the delete button | Major    | Open     |
-| 2      | TC9       |  Checkboxes and 'Show Completed Tasks' switch are not accessible via keyboard | Minor    | Open     |
+| 1      | TC7       | Tasks do not persist after reload | Major    | Open     |
+| 2      | TC9       | Keyboard navigation skips delete button | Minor    | Open     |
 
 ## Notes
 - All bugs should be tracked and retested after fixes.
